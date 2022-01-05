@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-""" Robotics library
+""" Robotics library geveb
 This file contains functions for calculation
 of robotics manipulator kinematics and mechanics.
 It is based on Denavit-Hartenberg notation.
