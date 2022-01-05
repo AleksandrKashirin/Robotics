@@ -36,7 +36,7 @@ __license__ = None
 __version__ = "1.0.1"
 __maintainer__ = "Kashirin Aleksandr"
 __email__ = "Aleksandr.Kashirin@skoltech.ru"
-__status__ = "In Progres"
+__status__ = "In Progress"
 
 import sympy as sp
 
